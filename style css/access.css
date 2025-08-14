@@ -1,0 +1,135 @@
+*/{
+    padding: 0;
+    margin: 0;
+}
+.body{
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.logo{
+    margin: 15px;
+    position: inherit;
+}
+.header{
+    margin-top: 15px;
+}
+.header1{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color: white;
+}
+.romiii{
+    padding-left: 50px;
+    width: 220px;
+}
+.menu{
+    width: 600px;
+    float: right;
+    height: 70px;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    list-style: none;
+    margin-left: 30px;
+    margin-top: 5px;
+}
+ul li a{
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+ul li a:hover{
+    text-decoration: underline;
+    transition: 0.6s ease;
+}
+.contact{
+    padding: 15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: 18px;
+    background-color: rgb(227, 255, 0);
+    border: none;
+    color: black;
+    text-decoration: none;
+}
+
+.contact:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    transition: 0.3s ease ;
+    text-decoration: none;
+}
+.purpose{
+    padding-top: 100px;
+    background-color: rgb(27, 25, 25);
+    color: white;
+    line-height: 1.6;
+}
+.the{
+    padding: 100px;
+    text-align: left;
+    font-size: 18px;
+}
+.href{
+    color: white;
+}
+.access{
+    margin-left: 40px;
+    font-size: 18px;
+    line-height: 1.6;
+}
+.acc{
+    font-size: 70px;
+}
+.web{
+    font-size: 30px;
+}
+.footer{
+    background-color: whitesmoke;
+}
+.mainfoot{
+    display: flex;
+    padding: 70px;
+    font-size: 18px;
+    list-style: none;
+    margin: auto;
+    line-height: 2.0;
+}
+.romanio img{
+    width: 180px;
+}
+.head{
+    padding-right: 200px;
+    padding-left: 200px;
+}
+.navigator{
+    padding-right: 200px;
+}
+.term{
+    list-style: none;
+    font-size: 18px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.by{
+    text-align: right;
+}
+.built{
+    text-align: center;
+    font-size: 18px;
+}
+li a{
+    text-decoration: none;
+    color: black;
+}
+.wixlink{
+    color: black;
+}
