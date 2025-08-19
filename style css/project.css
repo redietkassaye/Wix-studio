@@ -65,7 +65,7 @@ ul li a:hover{
 }
 .builds{
     background-image: url(../image/pro-1.avif);
-    padding-top: 450px;
+    padding-top: 400px;
     background-position: center;
     background-size: cover;
     color: white;
@@ -78,6 +78,9 @@ ul li a:hover{
     margin-left: 150px;
     font-size: 60px;
 }
+.avifs{
+    padding-top: 30px;
+}
 .avif{
     display: flex;
     color: white;
@@ -85,39 +88,46 @@ ul li a:hover{
     justify-content: space-between;
 }
 .avif .vador{
-    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../image/home3.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../image/home3.jpg);
     background-size: cover;
     background-position: center;
     padding: 20px;
+    margin-left: 70px;
+    margin-right: 40px;
     padding-top: 10px;
     width: 450px;
-    height: 350px;
+    height: 300px;
+    z-index: -2;
 }
 .avif .vador:hover{
     transform: scale(0.96);
     transition: 0.8s ease;
 }
 .avif .sandiv{
-    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../image/pro2.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../image/pro2.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 10px;
+    margin-right: 40px;
     padding: 20px;
     width: 450px;
-    height: 340px;
+    height: 290px;
+    z-index: -2;
 }
 .avif .sandiv:hover{
     transform: scale(0.96);
     transition: 0.8s ease;
 }
 .avif .short{
-    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../image/home1.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../image/home1.jpg);
     background-size: cover;
     background-position: center;
     padding-top: 10px;
+    margin-right: 120px;
     padding: 20px;
     width: 450px;
-    height: 340px;
+    height: 290px;
+    z-index: -2;
 }
 .avif .short:hover{
     transform: scale(0.96);
@@ -130,39 +140,47 @@ ul li a:hover{
     justify-content: space-between;
 }
 .maple{
-    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../image/home2.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../image/home2.jpg);
     background-size: cover;
     background-position: center;
     padding: 20px;
+    margin-left: 70px;
+    margin-top: 10px;
     padding-top: 10px;
-    width: 450px;
-    height: 350px;
+    width: 375px;
+    height: 300px;
+    z-index: -2;
 }
 .maple:hover{
     transform: scale(0.96);
     transition: 0.8s ease;
 }
 .topgate{
-    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../image/pro5.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../image/pro5.jpg);
     background-size: cover;
     background-position: center;
     padding: 20px;
+    margin-top: 10px;
     padding-top: 10px;
-    width: 450px;
-    height: 350px;
+    width: 375px;
+    height: 300px;
+    z-index: -2;
 }
 .topgate:hover{
     transform: scale(0.96);
     transition: 0.8s ease;
 }
 .hq{
-    background-image: linear-gradient(rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url(../image/pro6.jpg);
+    background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)), url(../image/pro6.jpg);
     background-size: cover;
     background-position: center;
+    margin-top: 10px;
     padding: 20px;
+    margin-right: 120px;
     padding-top: 10px;
-    width: 450px;
-    height: 350px;
+    width: 375px;
+    height: 300px;
+    z-index: -2;
 }
 .hq:hover{
     transform: scale(0.96);

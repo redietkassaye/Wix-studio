@@ -65,7 +65,13 @@ ul li a:hover{
 }
 .aboutt{
     display: flex;
-    padding-top: 150px;
+    padding-top: 200px;
+}
+.abt{
+    width: 700px;
+    height: 500px;
+    padding-top: 70px;
+    padding-bottom: 100px;
 }
 .sucess{
     font-size: 50px;
@@ -75,7 +81,7 @@ ul li a:hover{
     padding-right: 30px;
 }
 .daniels{
-    padding-left: 350px;
+    padding-left: 400px;
     font-size: 18px;
     line-height: 1.6;
 }
@@ -90,6 +96,7 @@ ul li a:hover{
     padding-left: 250px;
     font-size: 18px;
     line-height: 1.9;
+    padding-bottom: 100px;
 }
 .get{
     background-color: rgb(227, 255, 0);
