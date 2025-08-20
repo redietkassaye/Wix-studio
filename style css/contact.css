@@ -68,9 +68,13 @@ ul li a:hover{
     padding-top: 200px;
 }
 .cont{
-    font-size: 50px;
+    font-size: 60px;
     padding-left: 65px;
     float: left;
+}
+.conta img{
+    width: 700px;
+    padding-left: 50px;
 }
 .we{
     font-size: 17px;

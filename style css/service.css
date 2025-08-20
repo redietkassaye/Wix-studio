@@ -67,11 +67,13 @@ ul li a:hover{
     display: flex;
 }
 .servimg img{
-    width: 800px;
-    height: 800px;
+    width: 700px;
+    height: 700px;
+    padding-left: 30px;
+    padding-top: 200px;
 }
 .solution{
-    padding: 140px;
+    padding-top: 200px;
     padding-left: 30px;
     font-size: 35px;
     list-style: none;
